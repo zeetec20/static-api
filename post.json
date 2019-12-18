@@ -1,0 +1,30 @@
+{
+    "title_api": "List POST",
+    "posts": {
+        "post1": {
+            "title": "Quis dolore anim deserunt consectetur.",
+            "content": "Veniam dolor magna aliqua ea duis nulla magna deserunt ut reprehenderit sunt in. Reprehenderit eu est voluptate magna aliqua minim cupidatat ut mollit deserunt et culpa. Labore tempor id nulla excepteur consequat mollit duis occaecat eu sint qui. Voluptate nisi deserunt reprehenderit ullamco enim Lorem sit excepteur anim incididunt cupidatat. Elit officia irure non aliqua est commodo pariatur quis minim cillum. \nOfficia deserunt cillum do magna ad elit sint laborum veniam aute. Pariatur eu officia voluptate amet ipsum cupidatat amet ut sint. Enim consequat ullamco aliqua Lorem aute.",
+            "date": "12-9-2019"
+        },
+        "post2": {
+            "title": "Quis dolore anim deserunt consectetur.",
+            "content": "Veniam dolor magna aliqua ea duis nulla magna deserunt ut reprehenderit sunt in. Reprehenderit eu est voluptate magna aliqua minim cupidatat ut mollit deserunt et culpa. Labore tempor id nulla excepteur consequat mollit duis occaecat eu sint qui. Voluptate nisi deserunt reprehenderit ullamco enim Lorem sit excepteur anim incididunt cupidatat. Elit officia irure non aliqua est commodo pariatur quis minim cillum. \nOfficia deserunt cillum do magna ad elit sint laborum veniam aute. Pariatur eu officia voluptate amet ipsum cupidatat amet ut sint. Enim consequat ullamco aliqua Lorem aute.",
+            "date": "12-9-2019"
+        },
+        "post3": {
+            "title": "Quis dolore anim deserunt consectetur.",
+            "content": "Veniam dolor magna aliqua ea duis nulla magna deserunt ut reprehenderit sunt in. Reprehenderit eu est voluptate magna aliqua minim cupidatat ut mollit deserunt et culpa. Labore tempor id nulla excepteur consequat mollit duis occaecat eu sint qui. Voluptate nisi deserunt reprehenderit ullamco enim Lorem sit excepteur anim incididunt cupidatat. Elit officia irure non aliqua est commodo pariatur quis minim cillum. \nOfficia deserunt cillum do magna ad elit sint laborum veniam aute. Pariatur eu officia voluptate amet ipsum cupidatat amet ut sint. Enim consequat ullamco aliqua Lorem aute.",
+            "date": "12-9-2019"
+        },
+        "post4": {
+            "title": "Quis dolore anim deserunt consectetur.",
+            "content": "Veniam dolor magna aliqua ea duis nulla magna deserunt ut reprehenderit sunt in. Reprehenderit eu est voluptate magna aliqua minim cupidatat ut mollit deserunt et culpa. Labore tempor id nulla excepteur consequat mollit duis occaecat eu sint qui. Voluptate nisi deserunt reprehenderit ullamco enim Lorem sit excepteur anim incididunt cupidatat. Elit officia irure non aliqua est commodo pariatur quis minim cillum. \nOfficia deserunt cillum do magna ad elit sint laborum veniam aute. Pariatur eu officia voluptate amet ipsum cupidatat amet ut sint. Enim consequat ullamco aliqua Lorem aute.",
+            "date": "12-9-2019"
+        },
+        "post5": {
+            "title": "Quis dolore anim deserunt consectetur.",
+            "content": "Veniam dolor magna aliqua ea duis nulla magna deserunt ut reprehenderit sunt in. Reprehenderit eu est voluptate magna aliqua minim cupidatat ut mollit deserunt et culpa. Labore tempor id nulla excepteur consequat mollit duis occaecat eu sint qui. Voluptate nisi deserunt reprehenderit ullamco enim Lorem sit excepteur anim incididunt cupidatat. Elit officia irure non aliqua est commodo pariatur quis minim cillum. \nOfficia deserunt cillum do magna ad elit sint laborum veniam aute. Pariatur eu officia voluptate amet ipsum cupidatat amet ut sint. Enim consequat ullamco aliqua Lorem aute.",
+            "date": "12-9-2019"
+        }
+    }
+}
